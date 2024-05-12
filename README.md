@@ -7,7 +7,7 @@
  
   <p>- 🌱 I’m currently learning robotics (manipulation, ros)</p>
  
- <p>- I'm use <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Ros-22314E?style=flat&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  </p>
+ <p>- I'm using <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Ros-22314E?style=flat&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  </p>
   
 - 📫 How to reach me: ardcxvsk@gmail.com
 
