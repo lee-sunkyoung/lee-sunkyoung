@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=lee-sunkyoung&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Robotics&descAlignY=55&descAlign=72.8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=lee-sunkyoung&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=72.8)
+
+
 ##👋Hi, I'm Sun-Kyoung LEE 
+
  <p>- 🔭 I’m currently working on RO:BIT, Intelligence Robot Team 18th <a href="https://github.com/RO-BIT-Intelligence-Robot-Team"><img src="https://img.shields.io/badge/Team RO:BIT-white?style=flat&logo=windowsterminal&logoColor=red"/></a></p> 
  
   <p>- 🌱 I’m currently learning robotics (manipulation, ros)</p>
