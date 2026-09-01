@@ -1,19 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=lee-sunkyoung&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=72.8)
+## 👋Hello, I'm Sun-Kyoung Lee
+### <b>Robotics Researcher</b>
+ 💼 work : guest researcher in <b>German Aerospace Center (DLR) – Institute of Robotics and Mechatronics </b>  
+ 🎓 Education : <b> Senior in Robotics Engineering (Intelligent Systems), Kwangwoon Univ, Seoul, Korea </b>  
 
+ 📍Location : Munich, Germany 🇩🇪
+  📫  contact : ardcxvsk@gmail.com
 
-##👋Hi, I'm Sun-Kyoung LEE 
+## interest 
+SLAM, Navigation, Autonomous Driving, Mobile robotics, Robotic Perception, Sensor Fusion
 
- <p>- 🔭 I’m currently working on RO:BIT, Intelligence Robot Team 18th <a href="https://github.com/RO-BIT-Intelligence-Robot-Team"><img src="https://img.shields.io/badge/Team RO:BIT-white?style=flat&logo=windowsterminal&logoColor=red"/></a></p> 
- 
-  <p>- 🌱 I’m currently learning robotics, mainly (manipulation, ros, slam, autonomous navigation)</p>
- 
- <p>- I'm using <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Ros-22314E?style=flat&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  </p>
-  
-- 📫 How to reach me: ardcxvsk@gmail.com
+## skill & tools
 
-- 🇰🇷 Location : Seoul, Korea
-
-
-  > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-sunkyoung&exclude_repo=lee-sunkyoung.github.io&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+Programming : C/C++, Python
+Hardware : Autodesk Fusion360, Autodesk Inventor
+Software : Linux, ROS/ROS2, OpenCV, Matlab, Nav2, lerobot
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
+
+
