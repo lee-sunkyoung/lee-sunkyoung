@@ -4,7 +4,6 @@
  🎓 Education : <b> Senior in Robotics Engineering (Intelligent Systems), Kwangwoon Univ, Seoul, Korea </b>  
 
  📍Location : Munich, Germany 🇩🇪
- 
  📫  contact : ardcxvsk@gmail.com
 
 ## interest 
