@@ -1,6 +1,7 @@
 ## 👋Hello, I'm Sun-Kyoung Lee
 ### <b>Robotics Researcher</b>
  💼 work : guest researcher in <b>German Aerospace Center (DLR) – Institute of Robotics and Mechatronics </b>  
+ 
  🎓 Education : <b> Senior in Robotics Engineering (Intelligent Systems), Kwangwoon Univ, Seoul, Korea </b>  
 
  📍Location : Munich, Germany 🇩🇪
